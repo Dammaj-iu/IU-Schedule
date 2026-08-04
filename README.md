@@ -1,3 +1,20 @@
+<div align="center">
+
+<p>
+	<img width="128" src="./src/icons/main/universal.svg"/>
+</p>
+<h1>Web Scrobbler</h1>
+
+[![Chrome Web Store][WebStoreBadge]][WebStore]
+[![Addons.mozilla.org][AmoBadge]][Amo]
+[![iTunes App Store][AppleStoreBadge]][AppleStore]
+[![Microsoft Edge Addons][EdgeBadge]][Edge]
+
+[![Discord][DiscordBadge]][Discord]
+[![Test status][GitHubActionsBadge]][GitHubActions]
+[![Codacy Badge][CodacyBadge]][Codacy]
+[![Codacy Coverage Badge][CodacyCoverageBadge]][Codacy]
+[![Crowdin Badge][CrowdinBadge]][Crowdin]
 ---
 
 # 📅 الجامعة الإسلامية - بناء الجدول
