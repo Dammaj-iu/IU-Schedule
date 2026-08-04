@@ -1,4 +1,4 @@
-# 📅 الجامعة الإسلامية - بناء الجدول
+# 📅 نَظْم - بناء الجدول
 
 **المطور:** DAMMAJ | [LinkedIn](https://www.linkedin.com/in/abdulrahman-dammaj-31b058289)
 
