@@ -21,8 +21,19 @@
 <div dir="ltr" align="right">
 
 ##  تثبيت:
-[![PC](https://img.shields.io/badge/PC-Installation-blue?logo=windows)](#تثبيت-على-الكمبيوتر)
-[![Mobile](https://img.shields.io/badge/Mobile-Installation-green?logo=android)](#تثبيت-على-الهاتف)
+<details>
+<summary>تثبيت على الكمبيوتر</summary>
+
+شرح التثبيت للكمبيوتر
+
+</details>
+
+<details>
+<summary>تثبيت على الهاتف</summary>
+
+شرح التثبيت للهاتف
+
+</details>
 
 ### تثبيت على الكمبيوتر 
 1 - قم بتنزيل الإضافة من [هنا](https://github.com/Dammaj-iu/IU-Schedule/releases/download/V2.2/03.Nasaq.V02.2.zip)
