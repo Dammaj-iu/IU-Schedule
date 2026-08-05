@@ -1,3 +1,13 @@
+<div align="center">
+
+<p>
+  <img width="128" src="./icons/icon128.png"/>
+</p>
+
+<h1>IU Schedule Builder</h1>
+
+</div>
+
 # 📅 نَظْم - بناء الجدول
 
 **المطور:** DAMMAJ | [LinkedIn](https://www.linkedin.com/in/abdulrahman-dammaj-31b058289)
