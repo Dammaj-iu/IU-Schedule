@@ -22,7 +22,6 @@
 
 ##  تثبيت:
 [![Computer](https://img.shields.io/badge/Computer-Installation-blue?logo=windows)](#الكمبيوتر)
-
 [![Mobile](https://img.shields.io/badge/Mobile-Installation-green?logo=android)](#الهاتف)
 
 ## الكمبيوتر 
