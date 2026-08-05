@@ -18,7 +18,7 @@
 1) قم بتنزيل الإضافة من [هنا][DownloadZip]
 2) قم بفك ضغط ملف ZIP داخل المجلد
 
-<p align="right">
+<p align="center">
 <img src="./img/03_zip.png" width="600">
 <br><br>
 </div>
@@ -26,7 +26,7 @@
 3) افتح المتصفح:
   -  ثم اضغط على 3 النقاط الموجودة في أعلى اليمين ثم اختر اختر الإضافات (Extensions)
 
-<p align="right">
+<p align="center">
 <img src="./img/04_open.png" width="600">
 <br><br>
 </div>
@@ -46,7 +46,7 @@
 - ثم اختر تحميل إضافة غير مضغوطة (Load unpacked)
 - ثم اختر المجلد الذي قمت بفك ضغطه (Select Folder)
 
-<p align="right">
+<p align="center">
 <img src="./img/05_add.png" width="600">
 <br><br>
 </div>
@@ -63,7 +63,7 @@
 افتح موقع الجامعة من [هنا](https://sso.iu.edu.sa/Account/Login)
 - توجه الى اكاديمي > التسجيل الإلكتروني > المقررات المسجلة
 - ثم التسجيل الإلكتروني >  المقررات المطروحة وفق الخطة
-<p align="right">
+<p align="center">
 <img src="./img/01.sys.jpg" width="600">
 <img src="./img/02.firstPage.jpg" width="600">
 <br><br>
@@ -71,7 +71,7 @@
 
 اختار بناء جدول:
 
-<p align="right">
+<p align="center">
 <img src="./img/03.bulidSch.jpg" width="600">
 <br><br>
 </div>
@@ -83,7 +83,7 @@
    ملاحظة:
    اذا لم تظهر مقرراتك تلقائياً اذهب الى المقررات المسجل ثم عد االى نفس الصفحه 
 
-<p align="right">
+<p align="center">
 <img src="./img/05.wayTast.jpg" width="600">
 <br><br>
 </div>
@@ -92,7 +92,7 @@
 نسخ وتحميل الشعب والجدول الذي تم انشاءه
 - للنسخ ارقم الشعب مع اسماء الدكاترة والوقت على شكل نص اختر نسخ ارقام الشعب
 - لتحميل الجدول كاصوره اختر تحميل كاصوره
-<p align="right">
+<p align="center">
 <img src="./img/04.Sch.Tast.jpg" width="600">
 <br><br>
 </div>
@@ -101,10 +101,24 @@
 ## ملاحظات مهمة:
 - الإضافة تعمل فقط على موقع الجامعة الإسلامية فقط.
 - الاضافة عمال تطوعي  غير رسمية تم انشائه لمساعده الطلاب في تنظيم وترتيب جدولهم.
+--- 
 
-**المطور:** DAMMAJ  
-**LinkedIn:** [abdulrahman-dammaj-31b058289]()
-**الإصدار:** V2.1  
+
+<p align="right" dir="rtl">
+<a href="./privacy.html">
+Privacy Policy
+</p>
+
+<p align="center" dir="rtl">
+  <strong>الدعم الفني:</strong>
+  <a href="mailto:abdammaj@gmail.com">Gmail</a>
+  |
+  <a href="https://www.linkedin.com/in/abdulrahman-dammaj-31b058289">LinkedIn</a>
+</p>
+
+<p align="center" dir="rtl">
+الإصدار: V2.1 
+</p>
 
 <!-- icon -->
 
@@ -116,6 +130,7 @@
 [linkedin]: https://www.linkedin.com/in/abdulrahman-dammaj-31b058289
 [WebIu]: https://sso.iu.edu.sa/Account/Login
 [ChromeExt]: chrome://extensions
+
 
 <!-- Download -->
 
