@@ -18,7 +18,7 @@
 
 
 <div align="right">
-  ## خطوات تثبيت الإضافة:
+## خطوات تثبيت الإضافة:
 
 
 1 - قم بتنزيل الإضافة من [هنا](https://github.com/Dammaj-iu/IU-Schedule/releases/download/V2.2/03.Nasaq.V02.2.zip)
