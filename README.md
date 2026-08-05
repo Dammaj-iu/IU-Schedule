@@ -27,7 +27,7 @@
 2 -  قم بفك ضغط ملف ZIP  داخل المجلد
 
 <br>
-<img src="./img/03_zip.png" width="800">
+<img src="./img/03_zip.png" width="600">
 <br><br>
 
 
@@ -38,7 +38,7 @@
    - اضغط على قائمة المتصفح الموجودة في أعلى اليمين.
    - اختر **الإضافات (Extensions)**.
 <br>
-<img src="./img/04_open.png" width="800">
+<img src="./img/04_open.png" width="600">
 <br><br>
 
 
@@ -57,7 +57,7 @@
 
 
 <br>
-<img src="./img/05_add.png" width="800">
+<img src="./img/05_add.png" width="600">
 <br><br>
 
 
