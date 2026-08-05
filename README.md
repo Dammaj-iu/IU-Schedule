@@ -24,9 +24,6 @@
 <details>
 <summary>تثبيت على الكمبيوتر</summary>
 
-شرح التثبيت للكمبيوتر
-
-
 1 - قم بتنزيل الإضافة من [هنا](https://github.com/Dammaj-iu/IU-Schedule/releases/download/V2.2/03.Nasaq.V02.2.zip)
 
 2 -  قم بفك ضغط ملف ZIP  داخل المجلد
@@ -73,8 +70,6 @@
 
 <details>
 <summary>تثبيت على الهاتف</summary>
-
-شرح التثبيت للهاتف
 
 </details>
 
