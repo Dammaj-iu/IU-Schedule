@@ -6,7 +6,7 @@
 <h1>نسق - رتب جدولك</h1> 
 
 [![Chrome Download][WebStoreChrome]][DownloadChromeExt]
-[![GitHub Download](https://img.shields.io/badge/GitHub-Download-orange?logo=github)](https://github.com/Dammaj-iu/IU-Schedule/releases/download/V2.2/03.Nasaq.V02.2.zip)
+[![GitHub Download][WebStoreChrome]][DownloadZip]
 
 </div>
 <p align="right" style="font-size:12px;">
@@ -108,7 +108,7 @@
 <!-- icon -->
 
 [WebStoreChrome]: https://img.shields.io/badge/Chrome-Extensions-blue?logo=googlechrome
-
+[WebStoreChrome]: https://img.shields.io/badge/GitHub-Download-orange?logo=github
 
 <!-- link -->
 
