@@ -11,8 +11,7 @@
 <div align="center">
 
 [![Chrome](https://img.shields.io/badge/Chrome-Extensions-blue?logo=googlechrome)](https://chromewebstore.google.com/detail/fnnaiebclbohpfcnngdlngcnpjjcailj?utm_source=item-share-cb)
-[![Download](https://img.shields.io/badge/download-Latest-orange?logo=github)](https://github.com/Dammaj-iu/IU-Schedule/releases/download/V2.2/03.Nasaq.V02.2.zip)
-[![Release](https://img.shields.io/github/v/release/Dammaj-iu/IU-Schedule?display_name=tag)](https://github.com/Dammaj-iu/IU-Schedule/releases)
+[![Download](https://img.shields.io/badge/GitHub-Download-orange?logo=github)](https://github.com/Dammaj-iu/IU-Schedule/releases/latest/download/Nasaq.zip)
 
 </div>
 # 📅 نَظْم - بناء الجدول
