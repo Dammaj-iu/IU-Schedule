@@ -21,7 +21,7 @@
 <div dir="ltr" align="right">
 
 ##  تثبيت:
-<details>
+<details dir="rtl">	
 <summary>تثبيت على الكمبيوتر</summary>
 
 
@@ -65,7 +65,7 @@
 </details>
 
 
-<details>
+<details dir="rtl">
 <summary>تثبيت على الهاتف</summary>
 
 </details>
