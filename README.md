@@ -21,10 +21,10 @@
 <div dir="ltr" align="right">
 
 ##  تثبيت:
-[![Computer](https://img.shields.io/badge/Computer-Installation-blue?logo=windows)](#الكمبيوتر)
-[![Mobile](https://img.shields.io/badge/Mobile-Installation-green?logo=android)](#الهاتف)
+[![PC](https://img.shields.io/badge/PC-Installation-blue?logo=windows)](#تثبيت-على-الكمبيوتر)
+[![Mobile](https://img.shields.io/badge/Mobile-Installation-green?logo=android)](#تثبيت-على-الهاتف)
 
-## الكمبيوتر 
+## تثبيت على الكمبيوتر 
 1 - قم بتنزيل الإضافة من [هنا](https://github.com/Dammaj-iu/IU-Schedule/releases/download/V2.2/03.Nasaq.V02.2.zip)
 
 2 -  قم بفك ضغط ملف ZIP  داخل المجلد
@@ -67,7 +67,7 @@
 
 6 -  مبروك عليك تم تثبيت الإضافة بنجاح.
 
-## الهاتف
+## تثبيت على الهاتف
 
 ## 🌟 مميزات الإضافة
 
