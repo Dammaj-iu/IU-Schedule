@@ -12,7 +12,7 @@
 [![GitHub Download](https://img.shields.io/badge/GitHub-Download-orange?logo=github)](https://github.com/Dammaj-iu/IU-Schedule/releases/download/V2.2/03.Nasaq.V02.2.zip)
 
 </div>
-<p align="center" style="font-size:12px;">
+<p align="lift" style="font-size:12px;">
 نسق هي إضافة ذكية لتنظيم الجداول الدراسية، تتيح إنشاء جدول افتراضي، مقارنة الشعب، واكتشاف التعارضات بسهولة قبل فتح فترة حذف وإضافة الشعب.
 </p>
 ---
