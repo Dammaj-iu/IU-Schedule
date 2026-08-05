@@ -20,7 +20,7 @@
 
 <div dir="ltr" align="right">
 
-##  تثبيت:
+###  تثبيت:
 <details>
 <summary>تثبيت على الكمبيوتر</summary>
 
