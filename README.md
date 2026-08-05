@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Chrome](https://img.shields.io/badge/Chrome-Supported-blue?logo=googlechrome)](https://chromewebstore.google.com/detail/fnnaiebclbohpfcnngdlngcnpjjcailj?utm_source=item-share-cb)
+[![Chrome](https://img.shields.io/badge/Chrome-Extensions-blue?logo=googlechrome)](https://chromewebstore.google.com/detail/fnnaiebclbohpfcnngdlngcnpjjcailj?utm_source=item-share-cb)
 [![Download](https://img.shields.io/badge/download-Latest-orange?logo=github)](https://github.com/Dammaj-iu/IU-Schedule/releases/download/V2.2/03.Nasaq.V02.2.zip)
 
 
