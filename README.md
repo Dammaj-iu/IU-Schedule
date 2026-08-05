@@ -19,7 +19,8 @@
 
 ## خطوات تثبيت الاضافة:
 
-
+1. قم بتنزيل الاضافة من هنا [![GitHub Download](https://img.shields.io/badge/GitHub-Download-orange?logo=github)](https://github.com/Dammaj-iu/IU-Schedule/releases/download/V2.2/03.Nasaq.V02.2.zip)
+ 
 
 ## 🌟 مميزات الإضافة
 
