@@ -1,7 +1,7 @@
 <div align="center">
 
 <p>
-  <img width="16" src="./icons/icon16.png"/>
+  <img width="128" src="./icons/icon16.png"/>
 </p>
 
 <h1>IU Schedule Builder</h1>
