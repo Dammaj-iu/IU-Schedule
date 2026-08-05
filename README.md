@@ -22,36 +22,29 @@
 </div>
 
 <p align="center">
-<br>
 <img src="./img/03_zip.png" width="600">
 <br><br>
 </div>
 
-3) انتقل إلى صفحة الإضافات في متصفح Chrome:
+3) افتح المتصفح:
+ثم اضغط على 3 النقاط الموجودة في أعلى اليمين ثم اختر اختر الإضافات (Extensions)
 
-
-### انتقل إلى صفحة الإضافات في متصفح Chrome:
-افتح المتصفح.
-اضغط على قائمة المتصفح الموجودة في أعلى اليمين.
-اختر **الإضافات (Extensions)**.
-<br>
+<p align="center">
 <img src="./img/04_open.png" width="600">
 <br><br>
+</div>
 
-
-
-
-أو يمكنك فتح الصفحة مباشرة بكتابة الرابط التالي في شريط العنوان:
+3.1) أو يمكنك فتح صفحة الإضافات مباشرة بنسخ الرابط التالي ولصقها في شريط [البحث](chrome://extensions):
    
 	"chrome://extensions/"
-أو استخدم الاختصار:
+3.2) أو استخدم الاختصار:
 
 	"Ctrl + Shift + E"
 
-### فعّل خيار **وضع المطور (Developer Mode)** الموجود في أعلى صفحة الإضافات، ثم اضغط على **تحميل إضافة غير مضغوطة (Load unpacked)**، ثم اختر المجلد الذي قمت بفك ضغطه وا اضغط على اختيار الملف(Select Folder)
-<br>
+<p align="center">
 <img src="./img/05_add.png" width="600">
 <br><br>
+</div>
 
 
 
@@ -117,6 +110,7 @@
 
 [linkedin]: https://www.linkedin.com/in/abdulrahman-dammaj-31b058289
 [WebIu]: https://sso.iu.edu.sa/Account/Login
+[ChromeExt]: chrome://extensions
 
 <!-- Download -->
 
