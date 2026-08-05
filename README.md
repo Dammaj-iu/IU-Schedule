@@ -9,7 +9,6 @@
 </h1>
 
 [![Chrome](https://img.shields.io/badge/Chrome-Extensions-blue?logo=googlechrome)](https://chromewebstore.google.com/detail/fnnaiebclbohpfcnngdlngcnpjjcailj?utm_source=item-share-cb)
-
 [![GitHub Download](https://img.shields.io/badge/GitHub-Download-orange?logo=github)](https://github.com/Dammaj-iu/IU-Schedule/releases/download/V2.2/03.Nasaq.V02.2.zip)
 
 </div>
