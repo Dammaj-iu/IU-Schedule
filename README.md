@@ -8,6 +8,13 @@
 
 </div>
 
+<div align="center">
+
+<a href="https://github.com/Dammaj-iu/IU-Schedule/releases/download/V2.2/03.Nasaq.V02.2.zip">
+<img src="https://img.shields.io/badge/Download-Nasaq%20Extension-blue?style=for-the-badge">
+</a>
+
+</div>
 # 📅 نَظْم - بناء الجدول
 
 **المطور:** DAMMAJ | [LinkedIn](https://www.linkedin.com/in/abdulrahman-dammaj-31b058289)
