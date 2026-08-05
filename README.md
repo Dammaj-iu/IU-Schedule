@@ -21,7 +21,7 @@
 <div dir="ltr" align="right">
 
 <details dir="rtl">	
-<summary>## تثبيت على الكمبيوتر</summary>
+<summary>تثبيت على الكمبيوتر</summary>
 
 
 ### قم بتنزيل الإضافة من [هنا](https://github.com/Dammaj-iu/IU-Schedule/releases/download/V2.2/03.Nasaq.V02.2.zip)
@@ -49,12 +49,7 @@
 
 	"Ctrl + Shift + E"
 
-### فعّل خيار **وضع المطور (Developer Mode)** الموجود في أعلى صفحة الإضافات.
-
-ثم اضغط على **تحميل إضافة غير مضغوطة (Load unpacked)**،
-ثم اختر المجلد الذي قمت بفك ضغطه وا اضغط على اختيار الملف(Select Folder).
-
-
+### فعّل خيار **وضع المطور (Developer Mode)** الموجود في أعلى صفحة الإضافات، ثم اضغط على **تحميل إضافة غير مضغوطة (Load unpacked)**، ثم اختر المجلد الذي قمت بفك ضغطه وا اضغط على اختيار الملف(Select Folder)
 <br>
 <img src="./img/05_add.png" width="600">
 <br><br>
@@ -64,7 +59,7 @@
 ### مبروك عليك تم تثبيت الإضافة بنجاح.
 </details>
 <details dir="rtl">
-<summary>## تثبيت على الهاتف</summary>
+<summary>تثبيت على الهاتف</summary>
 </details>
 
 ## تعليمات الاستخدام
