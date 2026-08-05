@@ -10,10 +10,9 @@
 
 <div align="center">
 
-[![Chrome](https://img.shields.io/badge/Chrome-Supported-blue?logo=googlechrome)](https://github.com/Dammaj-iu/IU-Schedule)
-[![Version](https://img.shields.io/badge/version-V2.2-green)](https://github.com/Dammaj-iu/IU-Schedule/releases)
+[![Chrome](https://img.shields.io/badge/Chrome-Supported-blue?logo=googlechrome)](https://chromewebstore.google.com/detail/fnnaiebclbohpfcnngdlngcnpjjcailj?utm_source=item-share-cb)
 [![Download](https://img.shields.io/badge/download-Latest-orange?logo=github)](https://github.com/Dammaj-iu/IU-Schedule/releases/download/V2.2/03.Nasaq.V02.2.zip)
-[![License](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
+
 
 </div>
 # 📅 نَظْم - بناء الجدول
