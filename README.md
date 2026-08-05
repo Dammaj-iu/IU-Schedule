@@ -18,7 +18,13 @@
 
 
 ## خطوات تثبيت الاضافة:
-1. قم بتنزيل الاضافة من هنا(https://img.shields.io/badge/GitHub-Download-orange?logo=github)](https://github.com/Dammaj-iu/IU-Schedule/releases/download/V2.2/03.Nasaq.V02.2.zip)
+1. ثم بتنزيل الاضافة من [هنا](https://github.com/Dammaj-iu/IU-Schedule/releases/download/V2.2/03.Nasaq.V02.2.zip)
+
+2. قم بفك الضعط ملف zip دخل المجلد
+3. افتح متصفح Chrome او اي متصفح اخر، من اعلى اليمين ابحث عن (الإضافات، Extensions)  
+او اكتب في شريط البحث `chrome://extensions/` 
+او للنتقل السريع Ctrl + Shift + E 
+
 
 ## 🌟 مميزات الإضافة
 
