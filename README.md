@@ -14,9 +14,12 @@
 [![GitHub Download](https://img.shields.io/badge/GitHub-Download-orange?logo=github)](https://github.com/Dammaj-iu/IU-Schedule/releases/download/V2.2/03.Nasaq.V02.2.zip)
 
 <h1>
-<img src="./icons/icon48.png" width="32" height="32" style="vertical-align: middle;">
-#نسق - رتب جدولك
+  <span>
+    <img src="./icons/icon48.png" width="32" height="32" style="vertical-align: middle; display: inline;">
+    نسق - رتب جدولك
+  </span>
 </h1>
+
 **المطور:** DAMMAJ | [LinkedIn](https://www.linkedin.com/in/abdulrahman-dammaj-31b058289)
 
 ---
