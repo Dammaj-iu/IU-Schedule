@@ -18,7 +18,7 @@
 
 </div>
 
-<div dir="ltr" align="left">
+<div dir="ltr" align="right">
 
 ## خطوات تثبيت الإضافة:
 
