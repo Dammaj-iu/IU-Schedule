@@ -20,22 +20,15 @@
 
 <div dir="ltr" align="right">
 
-###  تثبيت:
+##  تثبيت:
 <details>
 <summary>تثبيت على الكمبيوتر</summary>
-
 1 - قم بتنزيل الإضافة من [هنا](https://github.com/Dammaj-iu/IU-Schedule/releases/download/V2.2/03.Nasaq.V02.2.zip)
-
 2 -  قم بفك ضغط ملف ZIP  داخل المجلد
-
 <br>
 <img src="./img/03_zip.png" width="600">
 <br><br>
-
-
-
 3 - انتقل إلى صفحة الإضافات في متصفح Chrome:
-   
    - افتح المتصفح.
    - اضغط على قائمة المتصفح الموجودة في أعلى اليمين.
    - اختر **الإضافات (Extensions)**.
