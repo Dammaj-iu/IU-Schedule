@@ -1,6 +1,4 @@
 <div align="center">
-
-<p>
   <img width="128" src="./icons/icon128.png"/>
 </p>
 
@@ -15,14 +13,13 @@
 <p align="right" style="font-size:12px;">
 نسق هي إضافة ذكية لتنظيم الجداول الدراسية، تتيح إنشاء جدول افتراضي، مقارنة الشعب، واكتشاف التعارضات بسهولة قبل فتح فترة حذف وإضافة الشعب.
 </p>
-
 </div>
 
 <div dir="ltr" align="right">
 
 <details dir="rtl">	
+	
 <summary>تثبيت على الكمبيوتر</summary>
-
 
 ### قم بتنزيل الإضافة من [هنا](https://github.com/Dammaj-iu/IU-Schedule/releases/download/V2.2/03.Nasaq.V02.2.zip)
 -  قم بفك ضغط ملف ZIP  داخل المجلد
@@ -106,5 +103,19 @@
 ---
 
 **المطور:** DAMMAJ  
-**LinkedIn:** [abdulrahman-dammaj-31b058289](https://www.linkedin.com/in/abdulrahman-dammaj-31b058289)
+**LinkedIn:** [abdulrahman-dammaj-31b058289]()
 **الإصدار:** V2.1  
+
+
+
+<!-- link -->
+
+[linkedin]: https://www.linkedin.com/in/abdulrahman-dammaj-31b058289
+[WebIu]: https://sso.iu.edu.sa/Account/Login
+
+<!-- Download -->
+[[DownloadZip]: https://github.com/Dammaj-iu/IU-Schedule/releases/download/V2.2/03.Nasaq.V02.2.zip
+[DownloadChromeExt]: https://chromewebstore.google.com/detail/fnnaiebclbohpfcnngdlngcnpjjcailj?utm_source=item-share-cb
+
+<!-- Related pages -->
+
