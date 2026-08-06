@@ -67,6 +67,8 @@
 <summary style="font-size: 20px; font-weight: bold;">
 للهاتف
 </summary>
+
+حمل اضافة من [هنا][DownloadFierfoxeExt]
 </details>
 
 
@@ -148,6 +150,6 @@ Privacy Policy
 
 [DownloadZip]: https://github.com/Dammaj-iu/IU-Schedule/releases/download/V2.2/03.Nasaq.V02.2.zip
 [DownloadChromeExt]: https://chromewebstore.google.com/detail/fnnaiebclbohpfcnngdlngcnpjjcailj?utm_source=item-share-cb
-
+[DownloadFierfoxeExt]: https://addons.mozilla.org/en-GB/firefox/addon/نسق-رتب-جدولك/
 <!-- Related pages -->
 
