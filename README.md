@@ -7,7 +7,7 @@
 
 [![Chrome Download][WebStoreChrome]][DownloadChromeExt]
 [![GitHub Download][WebStoreGitHub]][DownloadZip]
-
+[![Firefox][WebStoreFirefox]][DownloadFierfoxeExt]
 </div>
 
 نسق هي إضافة ذكية لتنظيم الجداول الدراسية، تتيح إنشاء جدول افتراضي، مقارنة الشعب، واكتشاف التعارضات بسهولة قبل فتح فترة حذف وإضافة الشعب.
@@ -67,8 +67,8 @@
 <summary style="font-size: 20px; font-weight: bold;">
 للهاتف
 </summary>
+تثبيت الإضافة على [Firefox][DownloadFierfoxeExt]
 
-حمل اضافة من [هنا][DownloadFierfoxeExt]
 </details>
 
 
@@ -136,9 +136,9 @@ Privacy Policy
 
 <!-- icon -->
 
-[WebStoreChrome]: https://img.shields.io/badge/Chrome-Extensions-blue?logo=googlechrome
-[WebStoreGitHub]: https://img.shields.io/badge/GitHub-Download-orange?logo=github
-
+[WebStoreChrome]: https://img.shields.io/badge/Chrome-Extensions-blue?logo=googlechrome&logoColor=white
+[WebStoreGitHub]: https://img.shields.io/badge/GitHub-Download-white?logo=github&logoColor=white
+[WebStoreFirefox]: https://img.shields.io/badge/Firefox-Add--ons-6F42C1?logo=firefoxbrowser&logoColor=white
 <!-- link -->
 
 [linkedin]: https://www.linkedin.com/in/abdulrahman-dammaj-31b058289
