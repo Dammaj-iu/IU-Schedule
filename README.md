@@ -68,25 +68,18 @@
 <summary style="font-size: 20px; font-weight: bold;">
 للهاتف
 </summary>
-<div align="right">
 
-1) قم بتحمل متصفح فيرفوكس
-[Android][firefox-android]
-|
-[iPhone][firefox-iphone]
-</div>
+قم بتنزيل اضافة Firefox من [هنا][DownloadZipFir] ثم 
+قم بتحمل متصفح فيرفوكس [iPhone][firefox-iphone] | [Android][firefox-android]
 
-2) افتح Firefox على جهاز Android؛
-3) اضغط على قائمة النقاط الثلاث وانتقل إلى الإعدادات؛
-4) مرّر إلى الأسفل واختر حول Firefox؛
-5) اضغط بسرعة على شعار Firefox خمس مرات لتفعيل قائمة تصحيح الأخطاء؛
-6) من دون إغلاق Firefox، عُد إلى الإعدادات؛
-7) اضغط على تثبيت إضافة من ملف، والذي أصبح ظاهرًا الآن في القائمة؛
-8) حدّد ملف .xpi الذي نزّلته مسبقًا؛
-9) اتبع التعليمات الظاهرة على الشاشة لإكمال عملية التثبيت.
-
-
-
+1) افتح متصفح Firefox على الجاهز.
+2) اضغط على قائمة النقاط الثلاث، ثم انتقل إلى الإعدادات.
+3) مرّر إلى الأسفل، واختر حول Firefox.
+4) اضغط بسرعة على شعار Firefox خمس مرات متتالية لتفعيل قائمة تصحيح الأخطاء (Debug Menu).
+5) من دون إغلاق Firefox، ارجع إلى الإعدادات.
+6) اضغط على تثبيت إضافة من ملف (Install Extension from File)، وسيظهر هذا الخيار بعد تفعيل قائمة تصحيح الأخطاء.
+7) حدّد ملف الإضافة بصيغة .xpi الذي نزّلته مسبقًا.
+8) اتبع التعليمات الظاهرة على الشاشة لإكمال عملية التثبيت.ت.
 </details>
 
 
@@ -167,6 +160,7 @@ Privacy Policy
 <!-- Download -->
 
 [DownloadZip]: https://github.com/Dammaj-iu/IU-Schedule/releases/download/V2.2/03.Nasaq.V02.2.zip
+[DownloadZipFir]: https://github.com/Dammaj-iu/IU-Schedule/releases/download/V2.4/04.Nasaq.Firfox.V02.4.xpi
 [DownloadChromeExt]: https://chromewebstore.google.com/detail/fnnaiebclbohpfcnngdlngcnpjjcailj?utm_source=item-share-cb
 [DownloadFierfoxeExt]: https://addons.mozilla.org/en-GB/firefox/addon/نسق-رتب-جدولك/
 [firefox-android]: https://play.google.com/store/apps/details?id=org.mozilla.firefox
