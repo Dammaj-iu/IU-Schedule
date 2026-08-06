@@ -68,7 +68,24 @@
 <summary style="font-size: 20px; font-weight: bold;">
 للهاتف
 </summary>
-تثبيت الإضافة على [Firefox][DownloadFierfoxeExt]
+<div align="right">
+
+1) قم بتحمل متصفح فيرفوكس
+[Android][firefox-android]
+|
+[iPhone][firefox-iphone]
+</div>
+
+2) افتح Firefox على جهاز Android؛
+3) اضغط على قائمة النقاط الثلاث وانتقل إلى الإعدادات؛
+4) مرّر إلى الأسفل واختر حول Firefox؛
+5) اضغط بسرعة على شعار Firefox خمس مرات لتفعيل قائمة تصحيح الأخطاء؛
+6) من دون إغلاق Firefox، عُد إلى الإعدادات؛
+7) اضغط على تثبيت إضافة من ملف، والذي أصبح ظاهرًا الآن في القائمة؛
+8) حدّد ملف .xpi الذي نزّلته مسبقًا؛
+9) اتبع التعليمات الظاهرة على الشاشة لإكمال عملية التثبيت.
+
+
 
 </details>
 
@@ -152,5 +169,7 @@ Privacy Policy
 [DownloadZip]: https://github.com/Dammaj-iu/IU-Schedule/releases/download/V2.2/03.Nasaq.V02.2.zip
 [DownloadChromeExt]: https://chromewebstore.google.com/detail/fnnaiebclbohpfcnngdlngcnpjjcailj?utm_source=item-share-cb
 [DownloadFierfoxeExt]: https://addons.mozilla.org/en-GB/firefox/addon/نسق-رتب-جدولك/
+[firefox-android]: https://play.google.com/store/apps/details?id=org.mozilla.firefox
+[firefox-iphone]: https://apps.apple.com/us/app/firefox-private-web-browser/id989804926
 <!-- Related pages -->
 
