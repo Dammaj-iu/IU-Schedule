@@ -81,7 +81,7 @@
 </summary>
 
 <div align="center">
-	تثبيت مباشر 
+	تثبيت مباشر (غير متوفر) 
 </div>
 
 <div align="center">
