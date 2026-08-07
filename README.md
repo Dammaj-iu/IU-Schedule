@@ -148,7 +148,16 @@
 ## ملاحظات مهمة:
 - الإضافة تعمل فقط على موقع الجامعة الإسلامية.
 - الإضافة عمل تطوعي غير رسمي، وتم إنشاؤها تم لمساعدة الطلاب في تنظيم وترتيب جدولهم.
---- 
+- هذه الإضافة أحد مشاريع نادي ASME – فرع الجامعة الإسلامية.
+
+المطور: Abdulrahman DAMMAJ
+<p align="center" dir="rtl">
+
+[LinkedIn][linkedin]
+
+</p>
+
+---
 
 
 <p align="right" dir="rtl">
@@ -158,7 +167,7 @@ Privacy Policy
 
 <p align="center" dir="rtl">
   <strong>الدعم الفني:</strong>
-  <a href="mailto:abdammaj@gmail.com">Gmail</a>
+  <a href="mailto:">Gmail</a>
   |
   <a href="https://www.linkedin.com/in/abdulrahman-dammaj-31b058289">LinkedIn</a>
 </p>
