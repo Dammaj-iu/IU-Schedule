@@ -37,7 +37,7 @@
 2) قم بفك ضغط ملف ZIP داخل المجلد
 
 <p align="center">
-<img src="./img/03_zip.png" width="600">
+<img src="./img/03_zip.jpg" width="600">
 <br><br>
 </div>
 
@@ -45,7 +45,7 @@
   -  ثم اضغط على 3 النقاط الموجودة في أعلى اليمين ثم اختر الإضافات (Extensions)
 
 <p align="center">
-<img src="./img/04_open.png" width="600">
+<img src="./img/04_open.jpg" width="600">
 <br><br>
 </div>
 
@@ -65,7 +65,7 @@
 - ثم اختر المجلد الذي قمت بفك ضغطه (Select Folder)
 
 <p align="center">
-<img src="./img/05_add.png" width="600">
+<img src="./img/05_add.jpg" width="600">
 <br><br>
 </div>
 
@@ -102,6 +102,12 @@
 6) اضغط على تثبيت الامتداد من ملف (Install Extension from File)، وسيظهر هذا الخيار بعد تفعيل قائمة تصحيح الأخطاء.
 7) حدّد ملف الإضافة بصيغة .xpi الذي نزّلته مسبقًا.
 8) اتبع التعليمات الظاهرة على الشاشة لإكمال عملية التثبيت.
+
+<p align="center">
+<img src="./img/06-FirFox_instel.png" width="600">
+<br><br>
+</div>
+
 </details>
 
 
@@ -150,12 +156,13 @@
 - الإضافة عمل تطوعي غير رسمي، وتم إنشاؤها تم لمساعدة الطلاب في تنظيم وترتيب جدولهم.
 - هذه الإضافة أحد مشاريع نادي ASME – فرع الجامعة الإسلامية.
 
+<p align="center">
+<img src="./img/05-logo-asme.png" width="48">
+<br><br>
+</div>
+
+
 المطور: Abdulrahman DAMMAJ
-<p align="center" dir="rtl">
-
-[LinkedIn][linkedin]
-
-</p>
 
 ---
 
@@ -173,7 +180,7 @@ Privacy Policy
 </p>
 
 <p align="center" dir="rtl">
-الإصدار: V2.1 
+الإصدار: V2.2 
 </p>
 
 <!-- icon -->
@@ -183,7 +190,7 @@ Privacy Policy
 [WebStoreFirefox]: https://img.shields.io/badge/Firefox-Add--ons-6F42C1?logo=firefoxbrowser&logoColor=white
 <!-- link -->
 
-[linkedin]: https://www.linkedin.com/in/abdulrahman-dammaj-31b058289
+[linkedinWeb]: https://www.linkedin.com/in/abdulrahman-dammaj-31b058289
 [WebIu]: https://sso.iu.edu.sa/Account/Login
 [ChromeExt]: chrome://extensions
 
