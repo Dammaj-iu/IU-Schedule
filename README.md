@@ -1,3 +1,9 @@
+<div align="right">
+
+[العربية](./README.md) | [English](./README_EN.md)
+
+</div>
+
 <div align="center">
 	
 </p>
