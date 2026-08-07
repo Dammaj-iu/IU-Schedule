@@ -7,11 +7,12 @@
 <h1>نسق - رتب جدولك</h1> 
 
 [![Chrome Download][WebStoreChrome]][DownloadChromeExt]
-[![GitHub Download][WebStoreGitHub]][DownloadZip]
 [![Firefox][WebStoreFirefox]][DownloadFierfoxeExt]
 </div>
 
 نسق هي إضافة ذكية لتنظيم الجداول الدراسية، تتيح إنشاء جدول افتراضي، مقارنة الشعب، واكتشاف التعارضات بسهولة قبل فتح فترة حذف وإضافة الشعب.
+
+
 
 # تثبيت
 </details>
@@ -20,8 +21,18 @@
 للكمبيوتر
 </summary>
 
+<div align="center">
+تثبيت مباشر
+</div>
+<div align="center">
+</p>
 
-## تثبيت على الكمبيوتر
+[![Chrome Download][WebStoreChrome]][DownloadChromeExt]
+</div>
+
+
+
+## طريقة اخر
 
 1) قم بتنزيل الإضافة من [هنا][DownloadZip]
 2) قم بفك ضغط ملف ZIP داخل المجلد
@@ -68,6 +79,19 @@
 <summary style="font-size: 20px; font-weight: bold;">
 للهاتف
 </summary>
+
+<div align="center">
+	تثبيت مباشر 
+</div>
+
+<div align="center">
+</p>
+
+[![Firefox][WebStoreFirefox]][DownloadFierfoxeExt]
+</div>
+
+
+
 
 قم بتنزيل اضافة Firefox من [هنا][DownloadZipFir] ثم 
 قم بتحمل متصفح فيرفوكس [iPhone][firefox-iphone] | [Android][firefox-android]
@@ -165,5 +189,6 @@ Privacy Policy
 [DownloadFierfoxeExt]: https://addons.mozilla.org/en-GB/firefox/addon/نسق-رتب-جدولك/
 [firefox-android]: https://play.google.com/store/apps/details?id=org.mozilla.firefox
 [firefox-iphone]: https://apps.apple.com/us/app/firefox-private-web-browser/id989804926
+[googleChome]: https://play.google.com/store/apps/details?id=org.mozilla.firefox&pcampaignid=web_share
 <!-- Related pages -->
 
