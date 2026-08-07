@@ -2,7 +2,6 @@
 	
 </p>
   <img width="128" src="./icons/icon128.png"/>
-    <img width="128" src="./icons/icon128.1.png"/>
 </p>
 <h1>نسق - رتب جدولك</h1> 
 
@@ -90,8 +89,7 @@
 [![Firefox][WebStoreFirefox]][DownloadFierfoxeExt]
 </div>
 
-
-
+## طريقة اخر
 
 قم بتنزيل اضافة Firefox من [هنا][DownloadZipFir] ثم 
 قم بتحمل متصفح فيرفوكس [iPhone][firefox-iphone] | [Android][firefox-android]
