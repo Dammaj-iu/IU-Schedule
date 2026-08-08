@@ -51,7 +51,7 @@
   -  ثم اضغط على 3 النقاط الموجودة في أعلى اليمين ثم اختر الإضافات (Extensions)
 
 <p align="center">
-<img src="./img/04_open.jpg" width="600">
+<img src="./img/05_add.jpg" width="600">
 <br><br>
 </div>
 
