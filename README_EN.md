@@ -1,4 +1,4 @@
-<div align="right">
+<div align="center">
 
 [عربي](./README.md) | English
 
@@ -51,7 +51,7 @@ Direct Installation
   -  Then click the 3 dots located at the top right, then select Extensions (Extensions)
 
 <p align="center">
-<img src="./img/04_open.png" width="600">
+<img src="./img/05_add.jpg" width="600">
 <br><br>
 </div>
 
