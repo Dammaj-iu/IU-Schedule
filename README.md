@@ -1,6 +1,6 @@
 <div align="center">
 
-[العربي | [English](./README_EN.md)
+العربي | [English](./README_EN.md)
 
 </div>
 
